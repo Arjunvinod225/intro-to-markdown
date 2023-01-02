@@ -7,3 +7,8 @@
 
 
 I have added header options in this file to demonstrate the different heading sizes.
+
+<h1> Image adding
+
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
